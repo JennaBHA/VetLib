@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="View\Membre\Accueil_Membre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Accueil_Connexion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Accueil_principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Admin\Page\Adoptants.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Admin\Page\Adoptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Admin\Page\Animaux.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Admin\Connexion\Connexion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Admin\Page\DossierDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Admin\Page\Dossiers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Admin\Page\Page_accueil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Membre\Connexion\Connexion_membre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Membre\Connexion\Inscription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Membre\Page\FicheAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Membre\Page\Adoptions_membre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Membre\Page\Animaux_membre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

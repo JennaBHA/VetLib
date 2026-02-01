@@ -1,0 +1,1 @@
+﻿ALTER TABLE Animaux ADD Photo VARBINARY(MAX);

@@ -1,0 +1,2 @@
+﻿DELETE FROM Membres
+WHERE Id = 23; 
