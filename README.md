@@ -135,8 +135,7 @@ Vet'Lib a été conçu dans un cadre pédagogique afin de mettre en pratique :
 ---
 
 ## 📷 Aperçu
-
-<img width="919" height="583" alt="image1" src="https://github.com/user-attachments/assets/52fa8295-4799-47ad-9859-7c988bd8f03e" />
+<img width="1044" height="762" alt="image2" src="https://github.com/user-attachments/assets/565aa2d7-7a45-41df-ad78-890fba70a737" />
 <img width="919" height="583" alt="image1" src="https://github.com/user-attachments/assets/8d3c2faf-b20e-4189-b596-2d17de6e78e3" />
 <img width="990" height="602" alt="image" src="https://github.com/user-attachments/assets/2e7451dc-56d8-42bf-9012-0ab633b791ad" />
 
